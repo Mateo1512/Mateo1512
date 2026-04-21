@@ -1,7 +1,8 @@
-<img width="230" height="400" alt="momo-el-momo" src="https://github.com/user-attachments/assets/cb679f37-b741-489a-83bd-068dc30fd056" />
-<img width="450" height="360" alt="el-momo-nashe" src="https://github.com/user-attachments/assets/f075f0a5-3fa3-4f8b-890c-60ddb0939dca" />
-<img width="380" height="280" alt="EDIT" src="https://github.com/user-attachments/assets/90acf8d9-f97d-4d10-b3fc-c72db363dac6" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb679f37-b741-489a-83bd-068dc30fd056" height="200"/>
+  <img src="https://github.com/user-attachments/assets/f075f0a5-3fa3-4f8b-890c-60ddb0939dca" height="200"/>
+  <img src="https://github.com/user-attachments/assets/90acf8d9-f97d-4d10-b3fc-c72db363dac6" height="200"/>
+</p>
 <!--
 **Mateo1512/Mateo1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
